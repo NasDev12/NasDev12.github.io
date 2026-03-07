@@ -87,7 +87,11 @@ Main focus:
 *(Add screenshot here)*
 
 ### DailyRewards Configuration
-*(Add screenshot here)*
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479769058717995068/image.png?ex=69ad3dd4&is=69abec54&hm=8df663468144ab29782f724071880ddb1ba7d4da1eba7ea39b9bd566f6f45359&" width="200" />
+  <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479769135302054071/image.png?ex=69ad3de6&is=69abec66&hm=829abd5683117b6319562b50f8339955810723c5cedf58420c35f4bfe1ef95a9&" width="200" />
+</p>
 
 ### Combat Plugin Configuration
 ## ⚔️ Combat Plugin Configuration Gallery
