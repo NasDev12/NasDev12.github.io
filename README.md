@@ -79,7 +79,9 @@ Main focus:
 ## 📸 Configuration Showcase
 
 ### AuraSkills Configuration
-*(Add screenshot here)*
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479807626018554009/image.png?ex=69ad61bf&is=69ac103f&hm=9d56f54956124d80dbe1d950753a453bd80cb81f6842a9a31f2d290bb20fe6f0&" width="700">
+</p>
 
 ### TAB Plugin Setup
 *(Add screenshot here)*
