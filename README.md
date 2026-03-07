@@ -79,8 +79,6 @@ Main focus:
 ## 📸 Configuration Showcase
 
 ### 🌊 Siren Network
-## 🌊 Siren Network
-
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479826605571313745/Sirennetwork_1.webp?ex=69ad736c&is=69ac21ec&hm=b9555be81d21cce6e27155fb5f866878623c9fed4e559f52c1aa599855fa42fc&" width="200" />
   <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479826633136275648/Sirennetwork_2.webp?ex=69ad7373&is=69ac21f3&hm=297c5d9e8aee7b46971c28d266e8168cef114a556ab3a125e47cb32e0ec7c5f3&" width="200" />
@@ -117,15 +115,12 @@ Main focus:
 </p>
 
 ### DailyRewards Configuration
-
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479769058717995068/image.png?ex=69ad3dd4&is=69abec54&hm=8df663468144ab29782f724071880ddb1ba7d4da1eba7ea39b9bd566f6f45359&" width="200" />
   <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479769135302054071/image.png?ex=69ad3de6&is=69abec66&hm=829abd5683117b6319562b50f8339955810723c5cedf58420c35f4bfe1ef95a9&" width="200" />
 </p>
 
 ### Combat Plugin Configuration
-## ⚔️ Combat Plugin Configuration Gallery
-
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1479821906075979896/1479821974804107285/combetplus_1.png?ex=69ad6f1c&is=69ac1d9c&hm=a1622730100698da286190d16acd48efb6870a53ca3be2ed18e2f50ae296ce1f&" width="200" />
   <img src="https://cdn.discordapp.com/attachments/1479821906075979896/1479821995267850260/combetplus_2.webp?ex=69ad6f21&is=69ac1da1&hm=ad1d7688a16c231c8a37f8c18d27fedf58f4ebff611ef694f6ac4736ee991652&" width="200" />
@@ -173,11 +168,6 @@ Main focus:
   <img src="https://cdn.discordapp.com/attachments/1479821906075979896/1479822474064691331/combetplus_25.webp?ex=69ad6f93&is=69ac1e13&hm=d2639288d08a5e5b53685a534fdb367cc984fec9f4578500450c931afdf59271&" width="200" />
   <img src="https://cdn.discordapp.com/attachments/1479821906075979896/1479822485653291078/combetplus_26.webp?ex=69ad6f96&is=69ac1e16&hm=afe574f1fcb17b5628ec1f82652cacb738c4dd8596218b4482327eacf565cc66&" width="200" />
 </p>
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NasDev12&show_icons=true&theme=dark)
-
----
 
 ## 📫 Contact
 
