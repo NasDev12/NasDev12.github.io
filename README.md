@@ -78,6 +78,32 @@ Main focus:
 
 ## 📸 Configuration Showcase
 
+### 🌊 Siren Network
+## 🌊 Siren Network
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479826605571313745/Sirennetwork_1.webp?ex=69ad736c&is=69ac21ec&hm=b9555be81d21cce6e27155fb5f866878623c9fed4e559f52c1aa599855fa42fc&" width="200" />
+  <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479826633136275648/Sirennetwork_2.webp?ex=69ad7373&is=69ac21f3&hm=297c5d9e8aee7b46971c28d266e8168cef114a556ab3a125e47cb32e0ec7c5f3&" width="200" />
+  <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479826671845642301/Sirennetwork_1.webp?ex=69ad737c&is=69ac21fc&hm=e3edcbd75ec6d4e7c8162e5b0b9f6e984ea2f524017bdefa242267fc526913fb&" width="200" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479826680599150622/Sirennetwork_3.webp?ex=69ad737e&is=69ac21fe&hm=3b951050a1be2fc3639bcc60e84d10ea94dee2c8dfb0f3d046d5faf604232c51&" width="200" />
+  <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479826707807731784/Sirennetwork_4.webp?ex=69ad7384&is=69ac2204&hm=f176bb1cab104bd44fa10626e87ddc900093bb222e261fdebb3d021794e08e52&" width="200" />
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/K3xZws6X8vk?si=B-XhY3IJBoihzE8F" target="_blank">
+    <img src="https://img.youtube.com/vi/K3xZws6X8vk/maxresdefault.jpg" alt="Siren Network Video" width="600">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/K3xZws6X8vk?si=B-XhY3IJBoihzE8F" target="_blank">
+    ▶️ Watch Full Video on YouTube
+  </a>
+</p>
+
 ### AuraSkills Configuration
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479807626018554009/image.png?ex=69ad61bf&is=69ac103f&hm=9d56f54956124d80dbe1d950753a453bd80cb81f6842a9a31f2d290bb20fe6f0&" width="300">
