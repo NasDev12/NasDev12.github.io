@@ -110,19 +110,22 @@ Doucmant : https://github.com/NasDev12/AuraSkills
 
 ### TAB Plugin Setup
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479825653892387040/synthdev_1.webp?ex=69ad7289&is=69ac2109&hm=619634b523f735675c17d0392ad60b635be35ec4e86627ef48040bcf4e44ae29&" width="200" />
-  <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479825666588410078/synthdev_2.webp?ex=69ad728c&is=69ac210c&hm=90841a69545913d4f599df0b1651bae48889ea6cc379820d3c2ae18574ab4768&" width="200" />
-  <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479825697487720558/synthdev_3.webp?ex=69ad7294&is=69ac2114&hm=0f3153e518a5de61caac55133fadcb88db71405666302a92131b5fa26b05a9c5&" width="200" />
+<img src="synthdev 1.webp" width="260">
+<img src="synthdev 2.webp" width="260">
+<img src="synthdev 3.webp" width="260">
 </p>
 
+<p align="center">
+<img src="synthdev 4.webp" width="260">
+<img src="synthdev 5.webp" width="260">
+<img src="synthdev 6.webp" width="260">
+</p>
 ### DailyRewards Configuration
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479769058717995068/image.png?ex=69ad3dd4&is=69abec54&hm=8df663468144ab29782f724071880ddb1ba7d4da1eba7ea39b9bd566f6f45359&" width="200" />
   <img src="https://cdn.discordapp.com/attachments/1344702470324093009/1479769135302054071/image.png?ex=69ad3de6&is=69abec66&hm=829abd5683117b6319562b50f8339955810723c5cedf58420c35f4bfe1ef95a9&" width="200" />
 </p>
-
 ### Combat Plugin Configuration
-## ⚔️ CombetPlus Configuration
 
 <p align="center">
 <img src="combet 1.webp" width="260">
