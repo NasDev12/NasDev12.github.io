@@ -67,6 +67,7 @@ Responsibilities included:
 ## 💼 Current Work
 
 Currently working as a **Freelance Minecraft Configuration Specialist**.
+Working on #AshPvP as a Developer.
 
 Main focus:
 
