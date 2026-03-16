@@ -120,9 +120,11 @@ Doucmant : https://github.com/NasDev12/AuraSkills
 <img src="synthdev 5.webp" width="260">
 <img src="synthdev 6.webp" width="260">
 </p>
+
 ### DailyRewards Configuration
 <img src="dailyrewards 1.png" width="300">
 <img src="dailyrewards 2.png" width="300">
+
 ### Combat Plugin Configuration
 
 <p align="center">
